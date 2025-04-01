@@ -14,10 +14,6 @@ The required dependencies and installations are as follows:
 1. Navigate to the directory where compare_directories.py is stored via terminal,
 2. Run **python compare_directories.py**.
 
-## Test A Shot Management Automation
-Assumptions
-Only one version in preview/final folders. 
-
 ## Features
 - Accepts two directory paths as input.
 - Compares the contents of both directories and shows:
